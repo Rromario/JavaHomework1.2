@@ -13,7 +13,7 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* [Тест-план](https://github.com/Rromario/HomeworkJava1/tree/master/src) 
+* [Тест-план](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/report.md) 
 * [Руководство использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 В качестве тестовых данных использовались [Ключи для проверки](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
@@ -30,6 +30,7 @@
 * b6d53250-f07e-4352-a293-6102ddf7f1ca
 * c2bc778a-1cb9-46c6-b435-0489649d2a42
 * 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1
+
 Тестирование производилось в следующем окружении:
 * Windows 11 Pro, 64-разрядная
 * Java 11
